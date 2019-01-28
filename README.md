@@ -12,7 +12,7 @@ We use four different cities extrated from real-world Location-based Social Netw
 * Foursquare(Tokyo): <https://sites.google.com/site/yangdingqi/home/foursquare-dataset>
 * (remark) Please do not use these datasets for commercial purpose. For academic uses, please cite the paper. For Foursquare dataset, we use the same method as in [35] to construct the social networks. Thanks for their help.(see the reference [2,35] in the paper).
 # Usage
-*  python gvae.py 
+*  python gae_context.py 
 
 # Reference
 Hope such an implementation could help you on your projects. Any comments and feedback are appreciated. 
