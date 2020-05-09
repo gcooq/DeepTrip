@@ -15,5 +15,6 @@ We use four different cities extrated from real-world Location-based Social Netw
 *  python gae_context.py 
 
 # Reference
-Hope such an implementation could help you on your projects. Any comments and feedback are appreciated. 
-*Gao, Qiang, Goce Trajcevski, Fan Zhou, Kunpeng Zhang, Ting Zhong, and Fengli Zhang. "DeepTrip: Adversarially Understanding Human Mobility for Trip Recommendation." In Proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, pp. 444-447. 2019.
+Hope such an implementation could help you on your projects. Any comments and feedback are appreciated.
+
+* Gao, Qiang, Goce Trajcevski, Fan Zhou, Kunpeng Zhang, Ting Zhong, and Fengli Zhang. "DeepTrip: Adversarially Understanding Human Mobility for Trip Recommendation." In Proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, pp. 444-447. 2019.
